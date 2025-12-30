@@ -2,4 +2,4 @@ gyanendra patel
 01
 cse ai & ml
 parul university
-developer
+python
