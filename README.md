@@ -3,4 +3,4 @@ This is just for learning git &  github.
 <br>
 Author -->Gyanendra Patel
 <br>
-I have started learning git and git hub for very first time to explore open source and code base.
+I have started learning git and git hub for very first time to explore open source and code base.i am learning all commands of git for interaction of os with git hub.
