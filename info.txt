@@ -3,3 +3,6 @@ gyanendra patel
 cse ai & ml
 parul university
 python
+java
+c
+dsa
